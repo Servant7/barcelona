@@ -1,5 +1,6 @@
 Nama Website  : Barcelona
 
+
 Singkatnya, tema website ini adalah Barcelona, terdapat beberapa bagian dari website ini diantaranya adalah header,navigasi,content, dan footer. Bagian-bagian ini akan saya jelaskan satu persatu :
 
 *Header
