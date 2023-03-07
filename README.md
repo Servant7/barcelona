@@ -1,3 +1,6 @@
+Nama          : Ali Khatami
+NIM           : 2109116080
+Kelas         : Sistem Informasi(B2)
 Nama Website  : Barcelona
 
 
