@@ -6,6 +6,7 @@ A. Header
 
 Pada header, saya menggunakan warna kombinasi hitam rgba dengan teks barcelona dan logo club disebelahnya
 
+
 B. Navigasi
 
 Kemudian pada navigasi terdapat 5 menu navigasi, yaitu :
@@ -20,9 +21,11 @@ Selanjutnya ada gallery, berisi foto-foto iconic dari Barcelona mulai dari merai
 5. Pendaftaran La Masia
 Pada menu ini terdapat form isi data yang nantinya akan dikirimkan ke sebuah email
 
+
 C. Content
 
 Dibagian content sendiri, saya menggunakan bg-color rgba abu-abu dengan color text white dan text align justify
+
 
 D. Footer
 
