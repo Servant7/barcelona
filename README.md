@@ -1,6 +1,7 @@
 Nama Website  : Barcelona
 
 Singkatnya, tema website ini adalah Barcelona, terdapat beberapa bagian dari website ini diantaranya adalah header,navigasi,content, dan footer. Bagian-bagian ini akan saya jelaskan satu persatu :
+
 A. Header
 Pada header, saya menggunakan warna kombinasi hitam rgba dengan teks barcelona dan logo club disebelahnya
 
